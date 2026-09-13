@@ -26,6 +26,7 @@ I'm currently focused on strengthening my programming fundamentals and building 
 
 ### 👨‍💻 Programming
 - Python
+- Java
 - JavaScript
 
 ### 🌐 Web Development
